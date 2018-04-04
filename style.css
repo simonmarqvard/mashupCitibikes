@@ -1,0 +1,60 @@
+
+.title {
+    text-align: center;
+    margin : auto;
+    background-color: white;
+    width: 50%;
+}
+
+h1 {
+   font-family: 'Roboto', 'sans-serif';
+   font-size: 45px;
+}
+
+#floating-panel {
+ margin: 50px auto 25px;;
+ width: 350px;
+ z-index: 5;
+ padding: 5px;
+ border: 2px solid black;
+ text-align: center;
+ font-family: 'Roboto', 'sans-serif';
+ line-height: 30px;
+ padding-left: 10px;
+}
+
+#address {
+  text-align: center;
+  font-family: 'Helvetica', 'Sans-Serif';
+  width: 200px;
+}
+
+
+#map {
+margin: 0 auto;
+height: 50vh;
+width: 75%;
+border: 2px solid black;
+}
+
+
+#exitstreetview {
+  background-color: black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 5px;
+  text-align: center;
+  color: white;
+}
+
+#footer {
+  width : 100%;
+  font-size: 10px;
+  padding: 3px;
+  font-family: 'Roboto', 'sans-serif';
+  margin-top: 50px;
+  color : white;
+  background-color: black;
+
+}
